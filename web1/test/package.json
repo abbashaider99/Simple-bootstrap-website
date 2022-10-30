@@ -1,0 +1,15 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "my first app in react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "abbashaider",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
